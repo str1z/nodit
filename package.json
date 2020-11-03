@@ -1,0 +1,22 @@
+{
+  "name": "nodit",
+  "version": "1.0.0",
+  "description": ".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "."
+  ],
+  "author": "str1z",
+  "license": "MIT",
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "keypress": "^0.2.1"
+  }
+}
