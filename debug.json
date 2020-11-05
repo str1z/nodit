@@ -1,11 +1,11 @@
 {
   "key": {
-    "name": "down",
+    "name": "up",
     "ctrl": false,
     "meta": false,
-    "shift": false,
-    "sequence": "\u001b[B",
-    "code": "[B"
+    "shift": true,
+    "sequence": "\u001b[1;2A",
+    "code": "[A"
   },
   "content": [
     "{",
@@ -115,7 +115,7 @@
     "  \"mediumorchid3\": 133,",
     "  \"mediumorchid\": 134,",
     "  \"mediumpurple2\": 140,",
-    "  \"darkgoldenrdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddod\": 136,asdfasdf",
+    "  \"darkgoldenrod\": 136,",
     "  \"lightsalmon3\": 173,",
     "  \"rosybrown\": 138,",
     "  \"grey63\": 139,",
@@ -214,9 +214,9 @@
     "}",
     ""
   ],
-  "size": 3600,
-  "cursorX": 0,
-  "cursorY": 204,
+  "size": 7392,
+  "cursorX": 7,
+  "cursorY": 26,
   "scrollX": 0,
-  "scrollY": 178
+  "scrollY": 0
 }
